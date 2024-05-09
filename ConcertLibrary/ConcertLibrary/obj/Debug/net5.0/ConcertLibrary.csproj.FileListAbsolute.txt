@@ -1,0 +1,12 @@
+E:\guys\САША\ConcertLibrary\ConcertLibrary\bin\Debug\net5.0\ConcertLibrary.deps.json
+E:\guys\САША\ConcertLibrary\ConcertLibrary\bin\Debug\net5.0\ConcertLibrary.dll
+E:\guys\САША\ConcertLibrary\ConcertLibrary\bin\Debug\net5.0\ConcertLibrary.pdb
+E:\guys\САША\ConcertLibrary\ConcertLibrary\obj\Debug\net5.0\ConcertLibrary.csproj.AssemblyReference.cache
+E:\guys\САША\ConcertLibrary\ConcertLibrary\obj\Debug\net5.0\ConcertLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\guys\САША\ConcertLibrary\ConcertLibrary\obj\Debug\net5.0\ConcertLibrary.AssemblyInfoInputs.cache
+E:\guys\САША\ConcertLibrary\ConcertLibrary\obj\Debug\net5.0\ConcertLibrary.AssemblyInfo.cs
+E:\guys\САША\ConcertLibrary\ConcertLibrary\obj\Debug\net5.0\ConcertLibrary.csproj.CoreCompileInputs.cache
+E:\guys\САША\ConcertLibrary\ConcertLibrary\obj\Debug\net5.0\ConcertLibrary.dll
+E:\guys\САША\ConcertLibrary\ConcertLibrary\obj\Debug\net5.0\refint\ConcertLibrary.dll
+E:\guys\САША\ConcertLibrary\ConcertLibrary\obj\Debug\net5.0\ConcertLibrary.pdb
+E:\guys\САША\ConcertLibrary\ConcertLibrary\obj\Debug\net5.0\ref\ConcertLibrary.dll
